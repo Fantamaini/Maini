@@ -1,0 +1,15 @@
+user_table: id,nom,email
+3,Charlie,charlie@example.com
+2,BobUpdated,bobupdated@example.com
+
+app_table: id,appName
+1,App1
+2,App2
+
+connexion_table: userId,appId
+1,1
+2,2
+
+gestion_user_table: userId,role
+1,Admin
+2,User
